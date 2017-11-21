@@ -1,0 +1,86 @@
+This article is about the star. For other uses, see Sun (disambiguation).
+The Sun Sun symbol.svg
+Sun white.jpg
+Sun with sunspots and limb darkening as seen in visible light with solar filter.
+Observation data
+Mean distance
+from Earth	1 au ˜ 1.496×108 km
+8 min 19 s at light speed
+Visual brightness (V)	-26.74[1]
+Absolute magnitude	4.83[1]
+Spectral classification	G2V[2]
+Metallicity	Z = 0.0122[3]
+Angular size	31.6–32.7 minutes of arc[4]
+Adjectives	Solar
+Orbital characteristics
+Mean distance
+from Milky Way core	˜?2.7×1017 km
+27,200 light-years
+Galactic period	(2.25–2.50)×108 yr
+Velocity	˜?220 km/s (orbit around the center of the Milky Way)
+˜?20 km/s (relative to average velocity of other stars in stellar neighborhood)
+˜?370 km/s[5] (relative to the cosmic microwave background)
+Physical characteristics
+Equatorial radius	695,700 km[6],
+696,392 km[7]
+109 R?[8]
+Equatorial circumference	4.379×106 km[8]
+109 × Earth[8]
+Flattening	9×10-6
+Surface area	6.09×1012 km2[8]
+12,000 × Earth[8]
+Volume	1.41×1018 km3[8]
+1,300,000 × Earth
+Mass	(1.98855±0.00025)×1030 kg[1]
+333,000 M?[1]
+Average density	1.408 g/cm3[1][8][9]
+0.255 × Earth[1][8]
+Center density (modeled)	162.2 g/cm3[1]
+12.4 × Earth
+Equatorial surface gravity	274.0 m/s2[1]
+27.94 g
+27,542.29 cgs
+28 × Earth[8]
+Moment of inertia factor	0.070[1] (estimate)
+Escape velocity
+(from the surface)	617.7 km/s[8]
+55 × Earth[8]
+Temperature	Center (modeled): 1.57×107 K[1]
+Photosphere (effective): 5,772 K[1]
+Corona: ˜?5×106 K
+Luminosity (Lsol)	3.828×1026 W[1]
+˜?3.75×1028 lm
+˜?98 lm/W efficacy
+Mean radiance (Isol)	2.009×107 W·m-2·sr-1
+Age	˜ 4.6 billion years[10][11]
+Rotation characteristics
+Obliquity	7.25°[1]
+(to the ecliptic)
+67.23°
+(to the galactic plane)
+Right ascension
+of North pole[12]	286.13°
+19 h 4 min 30 s
+Declination
+of North pole	+63.87°
+63° 52' North
+Sidereal rotation period
+(at equator)	25.05 d[1]
+(at 16° latitude)	25.38 d[1]
+25 d 9 h 7 min 12 s[12]
+(at poles)	34.4 d[1]
+Rotation velocity
+(at equator)	7.189×103 km/h[8]
+Photospheric composition (by mass)
+Hydrogen	73.46%[13]
+Helium	24.85%
+Oxygen	0.77%
+Carbon	0.29%
+Iron	0.16%
+Neon	0.12%
+Nitrogen	0.09%
+Silicon	0.07%
+Magnesium	0.05%
+Sulfur	0.04%
+The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma,[14][15] with internal convective motion that generates a magnetic field via a dynamo process.[16] It is by far the most important source of energy for life on Earth. Its diameter is about 1.39 million kilometers, i.e. 109 times that of Earth, and its mass is about 330,000 times that of Earth, accounting for about 99.86% of the total mass of the Solar System.[17] About three quarters of the Sun's mass consists of hydrogen (~73%); the rest is mostly helium (~25%), with much smaller quantities of heavier elements, including oxygen, carbon, neon, and iron.[18]
+The Sun is a G-type main-sequence star (G2V) based on its spectral class. As such, it is informally referred to as a yellow dwarf. It formed approximately 4.6 billion[a][10][19] years ago from the gravitational collapse of matter within a region of a large molecular cloud. Most of this matter gathered in the center, whereas the rest flattened into an orbiting disk that became the Solar System. The central mass became so hot and dense that it eventually initiated nuclear fusion in its core. It is thought that almost all stars form by this process.
